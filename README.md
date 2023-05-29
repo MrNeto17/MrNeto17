@@ -7,7 +7,7 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
       <a href="https://www.twitter.com/MrNeto17">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
     <a href="https://www.linkedin.com/in/tiago-neto-a6a2b11a8/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     <a href="https://leetcode.com/neto17">
