@@ -15,8 +15,9 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MrNeto17)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/MrNeto17)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/MrNeto17)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=black)](https://github.com/MrNeto17)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/MrNeto17)
 
 
 
