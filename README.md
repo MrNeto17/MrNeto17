@@ -46,7 +46,7 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/MrNeto17">
     <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
   </a>
 </p>
