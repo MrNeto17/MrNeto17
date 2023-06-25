@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
     <a href="https://www.linkedin.com/in/tiago-neto-a6a2b11a8/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    <a href="https://leetcode.com/neto17">
+    <a href="https://leetcode.com/mrneto1710">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
