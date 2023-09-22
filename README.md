@@ -4,7 +4,7 @@
     <i>
         I'm Tiago Neto.<br>
         Currently on a BSc in Computer Engineering.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Open to collaborate on interesting and innovative projects.<br>
     </i><br>
       <a href="https://www.twitter.com/MrNeto17">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
