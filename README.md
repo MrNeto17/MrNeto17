@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Tiago Neto.<br>
-        Currently on a BSc in Computer Engineering.<br>
+        I am currently a second-year student in BSc in Computer Engineering at FEUP.<br>
         Open to collaborate on interesting and innovative projects.<br>
     </i><br>
       <a href="https://www.twitter.com/MrNeto17">
