@@ -5,6 +5,7 @@
         I'm Tiago Neto.<br>
         I am currently a second-year student in Bachelor of Computer Engineering at FEUP.<br>
         Open to collaborate on interesting and innovative projects.<br>
+        <b>Certified in Cybersecurity by ICS2</b>.<br>
     </i><br>
       <a href="https://www.twitter.com/MrNeto17">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
@@ -17,12 +18,10 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MrNeto17)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=blackc)](https://github.com/MrNeto17)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=black)](https://github.com/MrNeto17)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/MrNeto17)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/MrNeto17)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/MrNeto17)
-
-
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
@@ -54,14 +53,3 @@
     <img src="https://komarev.com/ghpvc/?username=MrNeto17&color=blue&style=flat)" />
   </a>
 </p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
