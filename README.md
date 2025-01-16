@@ -52,3 +52,8 @@
     <img src="https://komarev.com/ghpvc/?username=MrNeto17&color=blue&style=flat)" />
   </a>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<MrNeto17>&show_icons=true&theme=radical)
+
+
+
