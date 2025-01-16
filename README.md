@@ -53,7 +53,9 @@
   </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNeto17&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNeto17&layout=compact&theme=react-dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrNeto17&theme=react-dark)
 
 
 ## Projects
