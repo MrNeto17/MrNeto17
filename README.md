@@ -60,9 +60,9 @@
 
 | Organization | Name | Description | Skills Used |
 |--------------|------|-------------|-------------|
-| ISEL     | [Computer-Networking-Project](https://github.com/MrNeto17/Computer-Networking-Project) | HTTP(S) Client & LAN Configuration & Wireshark | Kotlin, XAMPP, Computer Networking |
-| Personal     | [Password-Strength-Checker](https://github.com/MrNeto17/Password-Strength-Checker) | A tool to evaluate the strength of passwords. | Python, Password Security |
-| Personal   | [CTF-Writeups](https://github.com/MrNeto17/ctf_walkthroughs) | HTTP(S) Client & LAN Configuration & Wireshark | Kotlin, XAMPP, Computer Networking |
+| ISEL     | [Computer-Networking-Project](https://github.com/MrNeto17/Computer-Networking-Project) | HTTP(S) Client with Kotlin and packet analysis Wireshark & V-LAN Configuration | Kotlin, XAMPP, Computer Networking |
+| Personal     | [Password-Strength-Checker](https://github.com/MrNeto17/Password-Strength-Checker) | A tool in python to evaluate the strength of passwords, generate strong passwords and store them hashed to avoid repetition | Python, Password Security |
+| Personal   | [CTF-Writeups](https://github.com/MrNeto17/ctf_walkthroughs) | Capture the Flag reports organized by Category, Host... | Linux, Binary Exploitation, Shell Scripting, etc... |
 | ISEL     | [DB-Project](https://github.com/MrNeto17/DB-Project) | Database project implemented in Java. | Java, PL/pgSQL, JDBC |
 | ISEL     | [Online-Checkers](https://github.com/MrNeto17/Checkers-Multiplayer-Kotlin) | Checkers Multiplayer with UI using MongoDB and Kotlin  | Kotlin, MongoDB |
 
