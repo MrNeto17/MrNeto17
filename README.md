@@ -56,4 +56,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNeto17&layout=compact&theme=radical)
 
 
+## Projects
+
+| Organization | Name | Description | Skills Used |
+|--------------|------|-------------|-------------|
+| ISEL     | [Computer-Networking-Project](https://github.com/MrNeto17/Computer-Networking-Project) | HTTP(S) Client & LAN Configuration & Wireshark | Kotlin, XAMPP, Computer Networking |
+| Personal     | [Password-Strength-Checker](https://github.com/MrNeto17/Password-Strength-Checker) | A tool to evaluate the strength of passwords. | Python, Password Security |
+| Personal   | [CTF-Writeups](https://github.com/MrNeto17/ctf_walkthroughs) | HTTP(S) Client & LAN Configuration & Wireshark | Kotlin, XAMPP, Computer Networking |
+| ISEL     | [DB-Project](https://github.com/MrNeto17/DB-Project) | Database project implemented in Java. | Java, PL/pgSQL, JDBC |
+| ISEL     | [Online-Checkers](https://github.com/MrNeto17/Checkers-Multiplayer-Kotlin) | Checkers Multiplayer with UI using MongoDB and Kotlin  | Kotlin, MongoDB |
+
 
