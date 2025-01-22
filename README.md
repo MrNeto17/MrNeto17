@@ -63,9 +63,9 @@
 | Organization | Name | Description | Skills Used |
 |--------------|------|-------------|-------------|
 | FEUP    | [Sight-Game](https://github.com/MrNeto17/Sight_Game) | Sight game using prolog  | Prolog, Declarative Programming |
-| ISEL     | [Computer-Networking-Project](https://github.com/MrNeto17/Computer-Networking-Project) | HTTP(S) Client with Kotlin and packet analysis Wireshark & V-LAN Configuration | Kotlin, XAMPP, Computer Networking |
 | Personal     | [Password-Strength-Checker](https://github.com/MrNeto17/Password-Strength-Checker) | A tool in python to evaluate the strength of passwords, generate strong passwords and store them hashed to avoid repetition | Python, Password Security |
 | Personal   | [CTF-Writeups](https://github.com/MrNeto17/ctf_walkthroughs) | Capture the Flag reports organized by Category, Host... | Linux, Binary Exploitation, Shell Scripting, etc... |
+| ISEL     | [Computer-Networking-Project](https://github.com/MrNeto17/Computer-Networking-Project) | HTTP(S) Client with Kotlin and packet analysis Wireshark & V-LAN Configuration | Kotlin, XAMPP, Computer Networking |
 | ISEL     | [DB-Project](https://github.com/MrNeto17/DB-Project) | Database and application solution developed for the "GameOn" system, designed to manage games, players, and their activities| Java, PL/pgSQL, JDBC |
 | ISEL     | [Online-Checkers](https://github.com/MrNeto17/Checkers-Multiplayer-Kotlin) | Checkers Multiplayer with UI using MongoDB and Kotlin  | Kotlin, MongoDB |
 
