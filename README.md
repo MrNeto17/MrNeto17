@@ -62,7 +62,7 @@
 
 | Organization | Name | Description | Skills Used |
 |--------------|------|-------------|-------------|
-| FEUP    | [Route-Planner](https://github.com/MrNeto17/Urban_RoutePlanning) | Route-Planner exploring DataStructures and Algorithms | DataScrutures & Algorithms, C++ |
+| FEUP    | [Route-Planner Algorithm](https://github.com/MrNeto17/Urban_RoutePlanning) | GPS algorithm using optimization heuristics | DataScrutures & Algorithms, C++ |
 | FEUP    | [Freelancing-Website](https://github.com/MrNeto17/freelancing_website) | Freelancing Platform Website  | PHP, JavaScript, CSS, react |
 | FEUP    | [Sight-Game](https://github.com/MrNeto17/Sight_Game) | Sight game using prolog  | Prolog, Declarative Programming |
 | Personal     | [Password-Strength-Checker](https://github.com/MrNeto17/Password-Strength-Checker) | A tool in python to evaluate the strength of passwords, generate strong passwords and store them hashed to avoid repetition | Python, Password Security |
