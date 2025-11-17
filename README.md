@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Tiago Neto.<br>
-        I am currently a second-year student in Bachelor of Computer Engineering at FEUP.<br>
+        I am currently a last-year student in Bachelor of Computer Engineering at FEUP.<br>
         Open to collaborate on interesting and innovative projects.<br>
         <b>Certified in Cybersecurity by ICS2</b>.<br>
     </i><br>
